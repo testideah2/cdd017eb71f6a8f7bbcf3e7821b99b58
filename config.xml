@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "rus.tadzaim.com"
+    id          = "rus.tadzaim.ru"
     versionCode = "10"
-    version     = "1.0.0">
+    version     = "1.1.0">
 
-<name>ТЕСТ. Новые Займы</name>
+<name>Новые Займы</name>
 
 <description>
     Крупнейший помощник в интернете по получению быстрого микрозайма онлайн!
